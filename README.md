@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 👩🏻‍💻 I'm a Full Stack Software Engineer from Bangalore, India
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=jayshreeanand&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
